@@ -1,4 +1,4 @@
-| #Req_ID           | #Description                                                         |
+| Req_ID           | Description                                                         |
 |------------------|---------------------------------------------------------------------|
 |     H_01         | Beagle Bone Black – A microprocessor used as a primary control unit |
 |     H_02         |         Joystick (to use as a front and back gear)                  |
